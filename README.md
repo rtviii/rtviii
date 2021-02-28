@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey there.
 
-<!--
-**rtviii/rtviii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Some code i enjoyed writing:
 
-Here are some ideas to get you started:
+- Redux [filtering abstractions](https://github.com/rtviii/ribosome.xyz-frontend.ts/blob/master/src/redux/reducers/Filters/ActionTypes.ts) for a ribosomal protein database.
+- [Simulation](https://github.com/rtviii/polygenicity-simulations/blob/master/february/Individual/Individ_T.py) of an evolving polygenic population.
+- Neo4j's Cypher [Ribsomal Structure schema](https://github.com/rtviii/ribxz/blob/master/src/resources/cypher-tools/induct_struct..sh).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am amateur at but seeking out experiences in:
+- smart contract/blockchain programming
+- systems/infrastracture
+- numerical/embedded programming
+- data science
+- formal verification/binary analysis

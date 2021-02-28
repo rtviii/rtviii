@@ -1,4 +1,4 @@
-### Hey there. My name is Artem Kushner
+### Hey there! My name is Artem
 
 
 #### Some code i enjoyed writing:
@@ -9,8 +9,8 @@
  
 I am amateur at but seeking out experiences in:
 
-+ smart contract/blockchain programming
-+ systems/infrastracture
-+ numerical/embedded programming
++ smart contract programming
++ systems and infrastracture
++ numerical and embedded programming
 + data science, vision, modelling, comp. bio
-+ formal verification/binary analysis
++ formal verification and binary analysis

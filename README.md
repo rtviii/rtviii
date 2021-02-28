@@ -7,8 +7,8 @@ Some code i enjoyed writing:
 - Neo4j's Cypher [Ribsomal Structure schema](https://github.com/rtviii/ribxz/blob/master/src/resources/cypher-tools/induct_struct..sh).
 
 I am amateur at but seeking out experiences in:
-- smart contract/blockchain programming
-- systems/infrastracture
-- numerical/embedded programming
-- data science
-- formal verification/binary analysis
++ smart contract/blockchain programming
++ systems/infrastracture
++ numerical/embedded programming
++ data science
++ formal verification/binary analysis

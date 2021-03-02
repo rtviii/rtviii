@@ -1,6 +1,3 @@
-### Hey there! My name is Artem. 
-
-
 #### Some code i enjoyed writing recently:
 
    - A [simulation](https://github.com/rtviii/polygenicity-simulations/blob/master/february/Individual/Individ_T.py) of an evolving polygenic population. __Python3__

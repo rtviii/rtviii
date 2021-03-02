@@ -1,4 +1,4 @@
-### Hey there! My name is Artem
+### Hey there! My name is Artem.
 
 
 #### Some code i enjoyed writing:

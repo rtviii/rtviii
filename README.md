@@ -1,4 +1,4 @@
-### Sample of code:
+### Sample of Code:
 
 -  [Python3](https://github.com/rtviii/poly_pleio_sim/blob/master/fall12.py)
 

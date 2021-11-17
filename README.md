@@ -7,3 +7,5 @@
 
 -  [Python3](https://github.com/rtviii/ribosome.xyz-backend/blob/master/ribetl/ciftools/bsite_mixed.py)
 -  [Typescript](https://github.com/rtviii/ribosome.xyz-backend/blob/master/ribetl/src/requestGqlProfile.ts)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtviii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

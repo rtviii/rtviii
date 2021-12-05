@@ -4,7 +4,7 @@
 
 <div align="center">
   <p>
-    <strong>Hi! I'm Artie.</strong>
+    <strong>Hi! I'm Artie 🌌🫐</strong>
   </p>
 
 <!--   <a href="https://blockdaemon.com"><img src="./work_badge.svg" /></a> -->

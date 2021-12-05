@@ -10,9 +10,7 @@
 
 <!--   <a href="https://blockdaemon.com"><img src="./work_badge.svg" /></a> -->
 </div>
-☉
-☉:∷∷∷:lizard:∷:∷∷∷:bee: :mount_fuji::sewing_needle:∷∷:∷∷∷∷:☉∷∷∷:yarn:  ∷:∷∷∷∷:teddy_bear::∷∷∷∷:∷∷∷∷∷∷∷:∷∷:
-:∷∷∷∷:∷ :olive:∷∷☉∷:∷∷∷∷ :jigsaw: :☉☉∷∷∷∷:∷☉∷∷ :stars: ∷:∷∷∷:∷🌾🦋∷∷∷:eye::∷∷∷∷:∷∷∷∷:∷∷∷☉∷:∷∷∷∷::people_hugging:∷∷∷∷:∷∷∷:∷∷:japanese_ogre:∷∷:
+☉:lizard: :olive: :mount_fuji: :sewing_needle: :jigsaw: :people_hugging: :bee: :teddy_bear: :stars: :yarn: :eye: :japanese_ogre: :clown_face:
 
 
 ## Work

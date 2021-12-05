@@ -18,16 +18,16 @@
   </p>
 </div>
 
-## Work
+### Work
 
 - Bioinformatics & comp. bio at [Khanh Dao-Duc's lab](https://kdaoduc.com/) at UBC and [BC Genome Sciences Center](https://www.bcgsc.ca/). Built [ribosome.xyz](https://ribosome.xyz)
 - Solana & Terra infrastructure
 
-## Contact ☉
+### Contact 
 
 Feel free to reach out via [Telegram](https://t.me/rtviii) or [e-mail](rtkushner@gmail.com). [Calendly](https://calendly.com/rxz/).
-Open to anything if you're looking to connect.☉
-☉
+Open to anything if you're looking to connect.
+
 
 ### Samples of code:
 

@@ -18,10 +18,8 @@
   </p>
 </div>
 
-### Work
-
-- Bioinformatics and comp. bio at [Khanh Dao-Duc's lab](https://kdaoduc.com/) at UBC and [BC Genome Sciences Center](https://www.bcgsc.ca/). Built [ribosome.xyz](https://ribosome.xyz)
 - Solana & Terra infrastructure
+- Bioinformatics and comp. bio at [Khanh Dao-Duc's lab](https://kdaoduc.com/) at UBC and [BC Genome Sciences Center](https://www.bcgsc.ca/). Built [ribosome.xyz](https://ribosome.xyz)
 
 ### Contact 
 

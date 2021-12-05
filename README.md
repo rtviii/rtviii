@@ -14,9 +14,10 @@
 
 <div align="right">
   <p>
-    <strong> :jigsaw: </strong>
+    <strong> :jigsaw::jigsaw::jigsaw: </strong>
   </p>
 </div>
+
 ## Work
 
 - Bioinformatics & comp. bio at [Khanh Dao-Duc's lab](https://kdaoduc.com/) at UBC and [BC Genome Sciences Center](https://www.bcgsc.ca/). Built [ribosome.xyz](https://ribosome.xyz)

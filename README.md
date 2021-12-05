@@ -1,7 +1,7 @@
 
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rtviii&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_title=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats) -->
-
+☉
 <div align="center">
   <p>🌌
     <strong>🫐</strong>
@@ -18,18 +18,19 @@
 04 08 04 01   ..+.w.. 7....... 
 08 01 09 01   ......:......... 
 02 03 03 01   ......9......... 
-04 01 14 02   ......9......... 
-
+04 01 14 02   ......9......... ☉
+☉:∷∷∷∷:∷∷∷∷☉:∷∷∷∷:∷∷∷∷:☉∷∷∷∷:∷∷∷∷:∷∷∷∷:∷☉∷∷∷:∷∷∷∷:∷∷∷∷:☉∷∷∷∷:∷∷∷∷:∷∷∷∷:∷∷∷∷:∷∷∷∷:∷∷∷∷:∷∷∷∷:
+:∷∷∷∷:∷∷∷☉∷:∷∷∷∷:∷∷∷∷:☉☉∷∷∷∷:∷☉∷∷∷:∷∷∷∷:∷∷∷∷:∷∷∷∷:∷∷∷∷:∷∷∷∷:∷∷∷☉∷:∷∷∷∷:∷∷∷∷:∷∷∷∷:∷∷∷∷:∷∷∷∷:
 ## Work🌾🦋
 
 - Bioinformatics & comp. bio at [Khanh Dao-Duc's lab](https://kdaoduc.com/) at UBC. Built [ribosome.xyz](https://ribosome.xyz)
 - Solana & Terra infrastructure
 
-## Contact
+## Contact☉
 
 Feel free to reach out via [Telegram](https://t.me/rtviii) or [e-mail](rtkushner@gmail.com). [Calendly](https://calendly.com/rxz/).
-Open to anything whatsoever if you're looking to connect.
-
+Open to anything whatsoever if you're looking to connect.☉
+☉
 
 ### Samples of code:
 

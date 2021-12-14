@@ -8,9 +8,9 @@ Bioinformatics and comp. bio at [Khanh Dao-Duc's lab](https://kdaoduc.com/) at U
 
 #### Contact 
 
-Feel free to reach out via [Telegram](https://t.me/rtviii) or [e-mail](rtkushner@gmail.com). [Calendly](https://calendly.com/rxz/).
-Open to anything if you're looking to connect.
-
+- telegram [@rtviii](https://t.me/rtviii)
+- [e-mail](rtkushner@gmail.com)
+- [calendly](https://calendly.com/rxz/) lol.
 
 #### Samples of code:
 

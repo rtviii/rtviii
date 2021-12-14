@@ -8,9 +8,7 @@ Bioinformatics and comp. bio at [Khanh Dao-Duc's lab](https://kdaoduc.com/) at U
 
 #### Contact 
 
-- telegram [@rtviii](https://t.me/rtviii)
-- [e-mail](rtkushner@gmail.com)
-- [calendly](https://calendly.com/rxz/) lol.
+telegram [@rtviii](https://t.me/rtviii) | [e-mail](rtkushner@gmail.com) | [calendly](https://calendly.com/rxz/) lol.
 
 #### Samples of code:
 

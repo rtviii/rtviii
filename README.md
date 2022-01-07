@@ -4,7 +4,7 @@
 
 <!--   <a href="https://blockdaemon.com"><img src="./work_badge.svg" /></a> -->
 
-telegram [@rtviii](https://t.me/rtviii) | [e-mail](rtkushner@gmail.com) | [calendly](https://calendly.com/rxz/)
+telegram [@rtviii](https://t.me/rtviii) | [e-mail](mailto:rtkushner@gmail.com) | [calendly](https://calendly.com/rxz/)
 
 #### Samples of code:
 

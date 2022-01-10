@@ -4,10 +4,7 @@
 
 <!--   <a href="https://blockdaemon.com"><img src="./work_badge.svg" /></a> -->
 
-telegram [@rtviii](https://t.me/rtviii) | [e-mail](mailto:rtkushner@gmail.com) | [calendly](https://calendly.com/rxz/)
-
-#### Samples of code:
-
--  [Python3](https://github.com/rtviii/ribosome.xyz-backend/blob/master/ribetl/ciftools/bsite_mixed.py)
--  [Typescript](https://github.com/rtviii/ribosome.xyz-backend/blob/master/ribetl/src/requestGqlProfile.ts)
+Telegram [@rtviii](https://t.me/rtviii)
+[e-mail](mailto:rtkushner@gmail.com)
+[Calendly](https://calendly.com/rxz/) 
 

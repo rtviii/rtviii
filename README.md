@@ -13,5 +13,5 @@
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
- [Telegram@rtviii](https://t.me/rtviii) | [e-mail](mailto:rtkushner@gmail.com) | [Calendly](https://calendly.com/rxz/) 
+ [telegram@rtviii](https://t.me/rtviii) | [e-mail](mailto:rtkushner@gmail.com) | [calendly](https://calendly.com/rxz/) 
 

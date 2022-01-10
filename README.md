@@ -1,10 +1,7 @@
 
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rtviii&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_title=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rtviii&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_title=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats) 
+<a href="https://blockdaemon.com"><img src="./work_badge.svg" /></a> 
 
-<!--   <a href="https://blockdaemon.com"><img src="./work_badge.svg" /></a> -->
-
-Telegram [@rtviii](https://t.me/rtviii)
-[e-mail](mailto:rtkushner@gmail.com)
-[Calendly](https://calendly.com/rxz/) 
+Telegram [@rtviii](https://t.me/rtviii) | [e-mail](mailto:rtkushner@gmail.com) | [Calendly](https://calendly.com/rxz/) 
 

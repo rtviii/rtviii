@@ -4,11 +4,6 @@
 ⵙܮࠁ
    ⏐ ᒫ⊹―╮ⵙ
 ⊷ ╰⫷|⫸╯
-╰╭╮╯
-┘┐⏐└┌⎔
-◜◝◞◟⏉
-⊹―
-┴┬ᒬᒫᒦᒨ
 ```
  My contacts: [rtviii@tg](https://t.me/rtviii) | [e-mail](mailto:rtkushner@gmail.com) | [calendly](https://calendly.com/rxz/) 
 

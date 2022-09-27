@@ -1,1 +1,1 @@
-My contacts : [telegram](https://t.me/rtviii) | [rkushner@gmail.com](mailto:rtkushner@gmail.com)
+My contacts :[rkushner@gmail.com](mailto:rtkushner@gmail.com)

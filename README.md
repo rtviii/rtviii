@@ -1,1 +1,1 @@
-My contacts :[rkushner@gmail.com](mailto:rtkushner@gmail.com)
+My email is [rkushner@gmail.com](mailto:rtkushner@gmail.com)

@@ -1,1 +1,1 @@
-Howdy, reach me at [rtkushner@gmail.com](mailto:rtkushner@gmail.com).
+Howdy! Reach me at [rtkushner@gmail.com](mailto:rtkushner@gmail.com).

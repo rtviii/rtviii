@@ -1,6 +1,6 @@
 
-<p align="center">
-  <img src="seminaire_grothendieck.jpg" width="350" title="IHES Seminaire Grothendieck">
+<p align="left">
+  <img src="seminaire_grothendieck.jpg" width="700" title="IHES Seminaire Grothendieck">
 </p>
 
 
